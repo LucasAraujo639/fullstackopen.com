@@ -1,0 +1,14 @@
+Editor links:
+0.4:https://www.mermaidchart.com/app/projects/6875046e-ce42-4c47-9fc3-2da9e7255539/diagrams/a0a2f1a9-6f0c-4318-95a8-41d0aada35c3/version/v0.1/edit
+
+0.5:https://www.mermaidchart.com/app/projects/6875046e-ce42-4c47-9fc3-2da9e7255539/diagrams/66e1f220-7f4a-4dda-b3a4-ed0a37c9b7c1/version/v0.1/edit
+
+0.6:https://www.mermaidchart.com/app/projects/6875046e-ce42-4c47-9fc3-2da9e7255539/diagrams/937bf3a7-1e6e-4c3f-b80b-89700f05f9dd/version/v0.1/edit 
+
+SVG links:
+
+0.4:https://www.mermaidchart.com/raw/a0a2f1a9-6f0c-4318-95a8-41d0aada35c3?theme=light&version=v0.1&format=svg
+
+0.5:https://www.mermaidchart.com/raw/66e1f220-7f4a-4dda-b3a4-ed0a37c9b7c1?theme=light&version=v0.1&format=svg
+
+0.6:https://www.mermaidchart.com/raw/937bf3a7-1e6e-4c3f-b80b-89700f05f9dd?theme=light&version=v0.1&format=svg
